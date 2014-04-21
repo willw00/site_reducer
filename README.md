@@ -20,6 +20,6 @@ To print the same tree showing tag id's, class's, and href's for any links:
 ruby siteReducer.rb http://www.google.com id class href
 ```
 
-Further work:
-*Different output formats
-*Use to create a new html file with "stripped down" version of site
+Further work:  
+-Different output formats  
+-Use to create a new html file with "stripped down" version of site
